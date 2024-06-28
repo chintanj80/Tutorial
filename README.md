@@ -6,7 +6,7 @@ This repository contains demos I made with the [Transformers library](https://gi
 
 NOTE: if you are not familiar with HuggingFace and/or Transformers, I highly recommend to check out our [free course](https://huggingface.co/course/chapter1), which introduces you to several Transformer architectures (such as BERT, GPT-2, T5, BART, etc.), as well as an overview of the HuggingFace libraries, including [Transformers](https://github.com/huggingface/transformers), [Tokenizers](https://github.com/huggingface/tokenizers), [Datasets](https://github.com/huggingface/datasets), [Accelerate](https://github.com/huggingface/accelerate) and the [hub](https://huggingface.co/).
 
-For an overview of the ecosystem of HuggingFace for computer vision (June 2022), refer to [this notebook](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/HuggingFace_vision_ecosystem_overview_(June_2022).ipynb) with corresponding [video](https://www.youtube.com/watch?v=oL-xmufhZM8&t=2884s).
+For an overview of the ecosystem of HuggingFace for computer vision (June 2022), refer to [this notebook](https://github.com/chintanj80/Tutorial/blob/main/HuggingFace_vision_ecosystem_overview_(June_2022).ipynb).
 
 Currently, it contains the following demos:
 * Audio Spectrogram Transformer ([paper](https://arxiv.org/abs/2104.01778)): 
